@@ -1,2 +1,3 @@
 # NsNCoTask
-backend internship task for NsNCo
+Backend Developent  Internship task for NsNCo
+Technology : Django , Python, DRF
